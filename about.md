@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, 
 
-Testing: Hello, My name is Owura and this is my blog!
+My name is Owura and I am a computer science student at NYU. I am currently working on getting involved with Open Source Software (specifically that of the humanitarian variety) and I hope to use this blog as means of tracking my progress as I move along.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
